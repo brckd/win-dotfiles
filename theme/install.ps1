@@ -11,3 +11,5 @@ param (
 )
 
 Start-Process "$PSScriptRoot/$Name.deskthemepack"
+Start-Sleep 1
+taskkill.exe /f /im systemsettings.exe
