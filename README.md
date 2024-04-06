@@ -4,6 +4,9 @@
 
 Dotfiles for Windows.
 
+> [!Warning]
+> This project has been archived, as I nolonger use Windows, partly because of how cumbersome it is to customize.
+
 ## Dependencies
 
 | component | software                                                   | install                                                        |
